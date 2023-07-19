@@ -35,7 +35,7 @@ def write_response(response_dict: dict):
         st.table(df)
 
 
-st.title("Welcome Bears! Start chat with your CSV")
+st.title("Welcome Bears!")
 
 st.write("Please upload your CSV file below.")
 
